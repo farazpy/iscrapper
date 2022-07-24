@@ -1,5 +1,5 @@
 # iScrapper v1.0
-## iScrapper v1.0 github.com/thirdeyedevs/iscrapper
+## iScrapper v1.0 - The Third Eye
 ## IG : instagram.com/imyoursen
 ## Website: www.instander.in
 ### if you want to copy this code Please give Author credits {i mean dont forget Author credit}, nerd! Please read the License 
