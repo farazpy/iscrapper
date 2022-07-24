@@ -17,8 +17,17 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 ### Usage:
 ```
 git clone https://github.com/thirdeyedevs/iscrapper
+```
+
+```
 cd iscrapper
+```
+
+```
 bash iscrapper.sh
 ```
+
+
+
 
 ### Happy Hacking #thirdeye
